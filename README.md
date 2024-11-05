@@ -1,4 +1,4 @@
-#Lane Detection using Hough Transform
+#Lane Detection using Hough Transform#
 
 This project implements lane detection using the Hough Transform from scratch, part of an assignment for a Computer Vision course.
 
